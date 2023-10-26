@@ -41,7 +41,7 @@ class Evaluation {
 
     public function Evaluer(){
        // Professeur::class::Presenter();
-        echo " .L'evaluation $this->nomEvaluation sera en $this->duree heures, le jour sera $this->dateEvaluation";
+        echo " .L'evaluation $this->nomEvaluation se fera en $this->duree heures, le jour sera $this->dateEvaluation if god willing.";
         // var_dump($this->nomEvaluation);
         // die();
         
